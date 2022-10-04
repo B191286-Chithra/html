@@ -1,2 +1,2 @@
 # html
-all html codes that I have learnt
+# I have uploaded all the html codes here in this repository
